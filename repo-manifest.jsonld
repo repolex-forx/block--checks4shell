@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/block/checks4shell/commit/e26559519cb60c2c0e20772990f5c22bba6f6ad0",
       "git:hexsha": "e26559519cb60c2c0e20772990f5c22bba6f6ad0",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/block/checks4shell/commit/ecaf1f45a51a93fe2ac17e255f81283cb4561c3e",
