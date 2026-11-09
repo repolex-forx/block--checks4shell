@@ -1,0 +1,11 @@
+{
+  "org": "block",
+  "repo": "checks4shell",
+  "versions": [
+    {
+      "commit": "e26559519cb60c2c0e20772990f5c22bba6f6ad0",
+      "tag": "",
+      "parsed_at": "2026-11-09T17:39:10.289100+00:00"
+    }
+  ]
+}
